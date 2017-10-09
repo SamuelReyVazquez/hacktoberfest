@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Samuel Rey Vazquez](https://github.com/SamuelReyVazquez)
+- Place: Vigo,Galicia,Spain
+- Bio: Student
+- GitHub: [samuelreyvazquez](https://github.com/SamuelReyVazquez)
